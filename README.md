@@ -1,4 +1,4 @@
-# Project 4 - *Scavenger Hunt*
+# Project 3 (Project 4 for CodePath) - *Scavenger Hunt*
 
 Submitted by: **Chris Qiu**
 
